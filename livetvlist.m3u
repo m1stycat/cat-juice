@@ -1,0 +1,262 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="BBC One East" tvg-name="BBC One East" tvg-logo="https://s4.postimg.org/k5xl5dmf1/bbc_one.png" group-title="BBC",BBC One East
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_east.m3u8
+#EXTINF:-1 tvg-id="BBC Two HD" tvg-name="BBC Two HD" tvg-logo="https://s3.postimg.org/3oa6ilk4j/BBC_Two_HD_svg.png" group-title="BBC",BBC Two HD
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_two_england.m3u8
+#EXTINF:-1 tvg-id="BBC Four HD" tvg-name="BBC Four HD" tvg-logo="https://s3.postimg.org/odxup7toz/BBC_Four_HD_Logo_svg.png" group-title="BBC",BBC Four HD
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_four.m3u8
+#EXTINF:-1,Channel 4 SD
+http://149.202.215.151:8080/live/home/home/4668.ts
+#EXTINF:-1,Channel 5 SD
+http://149.202.215.151:8080/live/home/home/671.ts
+#EXTINF:-1,Sky1 HD*
+http://149.202.215.151:8080/live/home/home/667.ts
+#EXTINF:-1,Sky 2
+http://149.202.215.151:8080/live/home/home/666.ts
+#EXTINF:-1,Sky Atlantic HD
+http://149.202.215.151:8080/live/home/home/665.ts
+#EXTINF:-1,Sky Arts HD
+http://149.202.215.151:8080/live/home/home/631.ts
+#EXTINF:-1,Drama
+http://149.202.215.151:8080/live/home/home/629.ts
+#EXTINF:-1,YESTERDAY
+http://149.202.215.151:8080/live/home/home/5563.ts
+#EXTINF:-1,QUEST
+http://149.202.215.151:8080/live/home/home/641.ts
+#EXTINF:-1,Discovery HD*
+http://149.202.215.151:8080/live/home/home/8247.ts
+#EXTINF:-1,Discovery SD*
+http://149.202.215.151:8080/live/home/home/19401.ts
+#EXTINF:-1,Discovery Turbo*
+http://149.202.215.151:8080/live/home/home/5471.ts
+#EXTINF:-1,Discovery Shed*
+http://149.202.215.151:8080/live/home/home/5470.ts
+#EXTINF:-1,Investigation Discovery.
+http://149.202.215.151:8080/live/home/home/5467.ts
+#EXTINF:-1,Discovery Home & Health
+http://149.202.215.151:8080/live/home/home/5451.ts
+#EXTINF:-1,Discovery History
+http://149.202.215.151:8080/live/home/home/619.ts
+#EXTINF:-1,Discovery Science*
+http://149.202.215.151:8080/live/home/home/9949.ts
+#EXTINF:-1,Discovery Showcase HD*
+http://149.202.215.151:8080/live/home/home/9945.ts
+#EXTINF:-1,National Geographic HD
+http://149.202.215.151:8080/live/home/home/8248.ts
+#EXTINF:-1,National Geographic
+http://149.202.215.151:8080/live/home/home/20634.ts
+#EXTINF:-1,Nat Geo HD
+http://149.202.215.151:8080/live/home/home/20818.ts
+#EXTINF:-1,Nat Geo Wild HD
+http://149.202.215.151:8080/live/home/home/10998.ts
+#EXTINF:-1,Nat Geo Wild
+#EXTINF:-1,Animal Planet HD
+http://149.202.215.151:8080/live/home/home/20817.ts
+#EXTINF:-1,Animal Planet
+http://149.202.215.151:8080/live/home/home/9950.ts
+#EXTINF:-1,HISTORY
+http://149.202.215.151:8080/live/home/home/649.ts
+#EXTINF:-1,H2 HD
+http://149.202.215.151:8080/live/home/home/20819.ts
+#EXTINF:-1,H2
+http://149.202.215.151:8080/live/home/home/8452.ts
+#EXTINF:-1,Disney
+http://149.202.215.151:8080/live/home/home/590.ts
+#EXTINF:-1,Disney XD HD
+http://149.202.215.151:8080/live/home/home/595.ts
+#EXTINF:-1,Disney Junior
+http://149.202.215.151:8080/live/home/home/596.ts
+#EXTINF:-1,Nicktoons
+http://149.202.215.151:8080/live/home/home/11514.ts
+#EXTINF:-1,Nick Jr
+http://149.202.215.151:8080/live/home/home/594.ts
+#EXTINF:-1,Nick Jr Too.
+http://149.202.215.151:8080/live/home/home/8684.ts
+#EXTINF:-1,Nickelodeon
+http://149.202.215.151:8080/live/home/home/592.ts
+#EXTINF:-1,Cartoon Network HD
+http://149.202.215.151:8080/live/home/home/593.ts
+#EXTINF:-1,Cartoonito
+http://149.202.215.151:8080/live/home/home/13717.ts
+#EXTINF:-1,Boomerang,
+http://149.202.215.151:8080/live/home/home/8688.ts
+#EXTINF:-1,CBeebies HD*
+http://149.202.215.151:8080/live/home/home/8689.ts
+#EXTINF:-1,POP
+http://149.202.215.151:8080/live/home/home/7999.ts
+#EXTINF:-1,BBC News HD
+http://149.202.215.151:8080/live/home/home/676.ts
+#EXTINF:-1,Sky Cinema Box Office 1 FHD
+http://149.202.215.151:8080/live/home/home/25535.ts
+#EXTINF:-1,Sky Cinema Box Office 2 FHD
+http://149.202.215.151:8080/live/home/home/25534.ts
+#EXTINF:-1,Sky Cinema Box Office 3 FHD
+http://149.202.215.151:8080/live/home/home/25533.ts
+#EXTINF:-1,Sky Cinema Premiere HD*
+http://149.202.215.151:8080/live/home/home/10983.ts
+#EXTINF:-1,Sky Cinema Premiere HD**
+http://149.202.215.151:8080/live/home/home/13374.ts
+#EXTINF:-1,Sky Cinema Premiere
+http://149.202.215.151:8080/live/home/home/613.ts
+#EXTINF:-1,Sky Cinema Action HD*
+http://149.202.215.151:8080/live/home/home/10984.ts
+#EXTINF:-1,Sky Cinema Action
+http://149.202.215.151:8080/live/home/home/612.ts
+#EXTINF:-1,Sky Cinema Family HD*
+http://149.202.215.151:8080/live/home/home/10986.ts
+#EXTINF:-1,Sky Cinema Family HD**
+http://149.202.215.151:8080/live/home/home/13372.ts
+#EXTINF:-1,Sky Cinema Family.
+http://149.202.215.151:8080/live/home/home/610.ts
+#EXTINF:-1,Sky Cinema Disney HD*
+http://149.202.215.151:8080/live/home/home/10985.ts
+#EXTINF:-1,Sky Cinema Disney HD**
+http://149.202.215.151:8080/live/home/home/13371.ts
+#EXTINF:-1,Sky Cinema Disney.
+http://149.202.215.151:8080/live/home/home/608.ts
+#EXTINF:-1,Sky Cinema Comedy HD*
+http://149.202.215.151:8080/live/home/home/10987.ts
+#EXTINF:-1,Sky Cinema Comedy HD**
+http://149.202.215.151:8080/live/home/home/13370.ts
+#EXTINF:-1,Sky Cinema Comedy.
+http://149.202.215.151:8080/live/home/home/607.ts
+#EXTINF:-1,Sky Cinema Crime & Thriller HD*
+http://149.202.215.151:8080/live/home/home/10989.ts
+#EXTINF:-1,Sky Cinema Crime & Thriller HD**
+http://149.202.215.151:8080/live/home/home/13368.ts
+#EXTINF:-1,Sky Cinema Crime & Thriller
+http://149.202.215.151:8080/live/home/home/604.ts
+#EXTINF:-1,Sky Cinema Drama & Romance HD*
+http://149.202.215.151:8080/live/home/home/43540.ts
+#EXTINF:-1,Sky Cinema Drama & Romance HD**
+http://149.202.215.151:8080/live/home/home/10993.ts
+#EXTINF:-1,Sky Cinema Drama & Romance
+http://149.202.215.151:8080/live/home/home/9463.ts
+#EXTINF:-1,Sky Cinema Modern Greats HD*
+http://149.202.215.151:8080/live/home/home/13369.ts
+#EXTINF:-1,Sky Cinema Modern Greats
+http://149.202.215.151:8080/live/home/home/599.ts
+#EXTINF:-1,Sky Cinema Sci-Fi & Horror HD*
+http://149.202.215.151:8080/live/home/home/10991.ts
+#EXTINF:-1,Sky Cinema Sci-Fi & Horror
+http://149.202.215.151:8080/live/home/home/4954.ts
+#EXTINF:-1,Sky Cinema Select HD*
+http://149.202.215.151:8080/live/home/home/10990.ts
+#EXTINF:-1,Sky Cinema Select
+http://149.202.215.151:8080/live/home/home/4955.ts
+#EXTINF:-1,Sky Cinema Hits HD*
+http://149.202.215.151:8080/live/home/home/5475.ts
+#EXTINF:-1,Sky Cinema Showcase HD*
+http://149.202.215.151:8080/live/home/home/10988.ts
+#EXTINF:-1,Sky Cinema Superheroes HD*
+#EXTINF:-1,Sky Sports Box Office HD
+http://149.202.215.151:8080/live/home/home/12843.ts
+#EXTINF:-1,Sky Sports Mix HD
+http://149.202.215.151:8080/live/home/home/12779.ts
+#EXTINF:-1,Sky Sports News HD
+http://149.202.215.151:8080/live/home/home/586.ts
+#EXTINF:-1,Sky Sports News HD*
+http://149.202.215.151:8080/live/home/home/12147.ts
+#EXTINF:-1,Sky Sports News HQHD
+http://149.202.215.151:8080/live/home/home/44101.ts
+#EXTINF:-1,Sky Sports News HQHD*
+http://149.202.215.151:8080/live/home/home/44102.ts
+#EXTINF:-1,Sky Sports Main Events HD
+http://149.202.215.151:8080/live/home/home/585.ts
+#EXTINF:-1,Sky Sports Main Events SD
+http://149.202.215.151:8080/live/home/home/579.ts
+#EXTINF:-1,Sky Sports Cricket HD
+http://149.202.215.151:8080/live/home/home/584.ts
+#EXTINF:-1,Sky Sports Cricket SD
+http://149.202.215.151:8080/live/home/home/578.ts
+#EXTINF:-1,Sky Sports Action HD
+http://149.202.215.151:8080/live/home/home/583.ts
+#EXTINF:-1,Sky Sports Action SD
+http://149.202.215.151:8080/live/home/home/577.ts
+#EXTINF:-1,Sky Sports Golf HD
+http://149.202.215.151:8080/live/home/home/582.ts
+#EXTINF:-1,Sky Sports Golf SD
+http://149.202.215.151:8080/live/home/home/576.ts
+#EXTINF:-1,Sky Sports Premier League HD
+http://149.202.215.151:8080/live/home/home/581.ts
+#EXTINF:-1,Sky Sports Premier League SD
+http://149.202.215.151:8080/live/home/home/575.ts
+#EXTINF:-1,Sky Sport Arena HD*
+http://149.202.215.151:8080/live/home/home/32740.ts
+#EXTINF:-1,Sky Sport Arena HD
+http://149.202.215.151:8080/live/home/home/32739.ts
+#EXTINF:-1,Sky Sport Arena SD
+http://149.202.215.151:8080/live/home/home/32738.ts
+#EXTINF:-1,Sky Sport Football HD*
+http://149.202.215.151:8080/live/home/home/32743.ts
+#EXTINF:-1,Sky Sport Football HD
+http://149.202.215.151:8080/live/home/home/32742.ts
+#EXTINF:-1,Sky Sport Football SD
+http://149.202.215.151:8080/live/home/home/32741.ts
+#EXTINF:-1,Sky Sports F1 HD
+http://149.202.215.151:8080/live/home/home/580.ts
+#EXTINF:-1,Sky Sports F1 SD
+http://149.202.215.151:8080/live/home/home/574.ts
+#EXTINF:-1,BT Sports 1 HD
+http://149.202.215.151:8080/live/home/home/12126.ts
+#EXTINF:-1,BT Sports 1 HD*
+http://149.202.215.151:8080/live/home/home/11375.ts
+#EXTINF:-1,BT Sports 1 SD
+http://149.202.215.151:8080/live/home/home/11787.ts
+#EXTINF:-1,BT Sports 2 HD
+http://149.202.215.151:8080/live/home/home/572.ts
+#EXTINF:-1,BT Sports 2 HD*
+http://149.202.215.151:8080/live/home/home/11374.ts
+#EXTINF:-1,BT Sports 2 SD
+http://149.202.215.151:8080/live/home/home/11786.ts
+#EXTINF:-1,BT Sports 3 HD
+http://149.202.215.151:8080/live/home/home/4931.ts
+#EXTINF:-1,BT Sports 3 HD*
+http://149.202.215.151:8080/live/home/home/11373.ts
+#EXTINF:-1,BT Sports 3 SD
+http://149.202.215.151:8080/live/home/home/11785.ts
+#EXTINF:-1,BT Sport ESPN HD
+http://149.202.215.151:8080/live/home/home/12123.ts
+#EXTINF:-1,BT Sports ESPN HD**
+http://149.202.215.151:8080/live/home/home/4681.ts
+#EXTINF:-1,BT Sports ESPN
+http://149.202.215.151:8080/live/home/home/11784.ts
+#EXTINF:-1,BT Sport X1 HD
+http://149.202.215.151:8080/live/home/home/4932.ts
+#EXTINF:-1,BT Sport Extra 1
+http://149.202.215.151:8080/live/home/home/12416.ts
+#EXTINF:-1,BT Sport Extra 2
+http://149.202.215.151:8080/live/home/home/12415.ts
+#EXTINF:-1,BT Sport Extra 3
+http://149.202.215.151:8080/live/home/home/12414.ts
+#EXTINF:-1,BT Sport Extra 4
+http://149.202.215.151:8080/live/home/home/12413.ts
+#EXTINF:-1,BT Sport Extra 5
+http://149.202.215.151:8080/live/home/home/12412.ts
+#EXTINF:-1,BT Sport Extra 6
+http://149.202.215.151:8080/live/home/home/19201.ts
+#EXTINF:-1,US: Cartoon Network HD
+#EXTINF:-1,SFR Sports 4 UHD 4K
+http://149.202.215.151:8080/live/home/home/15607.ts
+#EXTINF:-1,Sky Sports Action HD*
+http://149.202.215.151:8080/live/home/home/12242.ts
+#EXTINF:-1,Sky Sports Cricket HD*
+http://149.202.215.151:8080/live/home/home/12243.ts
+#EXTINF:-1,Sky Sports F1 HD*
+http://149.202.215.151:8080/live/home/home/12239.ts
+#EXTINF:-1,Sky Sports Main Events HD*
+http://149.202.215.151:8080/live/home/home/12244.ts
+#EXTINF:-1,Sky Sports Premier League HD*
+http://149.202.215.151:8080/live/home/home/12240.ts
+#EXTINF:-1,Sky Sports Golf HD*
+http://149.202.215.151:8080/live/home/home/12241.ts
+
+
+
+
+
+
+
+
